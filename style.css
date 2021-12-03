@@ -60,6 +60,15 @@ aside >img{
     width: 100%;
     max-width: 360px;
 }
+article{
+   
+ 
+    text-align: center;
+    padding-left: 190px;
+    padding-right: 190px;
+    border: 50px;
+
+}
 
 h2{
     color: var(--cor0);
